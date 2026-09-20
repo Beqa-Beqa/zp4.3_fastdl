@@ -1,0 +1,6 @@
+#!/bin/bash
+cp -r ~/cs16server/cstrike/maps ./cstrike/ &&
+cp -r ~/cs16server/cstrike/models ./cstrike/ &&
+cp -r ~/cs16server/cstrike/sound ./cstrike/ &&
+cp -r ~/cs16server/cstrike/sprites ./cstrike/ &&
+cp -r ~/cs16server/cstrike/overviews ./cstrike/
